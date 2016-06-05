@@ -1,0 +1,38 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.guide.guide.StartActivity"
+    android:background="#53749D"
+    android:orientation="vertical"
+    android:weightSum="1"
+    android:gravity="center_vertical|center_horizontal">
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/logo"
+        android:src="@drawable/logo_white2"
+        android:scaleType="fitCenter"
+        android:background="@android:color/transparent"
+        android:adjustViewBounds="true"
+        android:layout_weight="0.68"
+        android:layout_centerInParent="false"
+        android:paddingBottom="40dp"
+        android:paddingLeft="30dp"
+        android:paddingTop="30dp"
+        android:paddingRight="30dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Tajemnice Dolnego Śląska"
+        android:id="@+id/appName"
+        android:textColor="#FFF"
+        android:textSize="40dp"
+        android:gravity="center_horizontal"
+        android:layout_marginBottom="73dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+</LinearLayout>
