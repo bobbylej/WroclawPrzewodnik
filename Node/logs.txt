@@ -1,0 +1,116 @@
+
+
+15:21:56 11.04.2015
+Server started..
+15:21:56 11.04.2015
+Error selecting: Error: ER_BAD_FIELD_ERROR: Unknown column 'id_place' in 'where clause'
+15:46:42 11.04.2015
+Server started..
+15:46:42 11.04.2015
+Error selecting: Error: ER_NO_SUCH_TABLE: Table 'm1150_piwko.places_places' doesn't exist
+15:47:47 11.04.2015
+Server started..
+15:47:47 11.04.2015
+Error selecting: Error: ER_BAD_FIELD_ERROR: Unknown column 't2.id_place' in 'on clause'
+15:51:55 11.04.2015
+Server started..
+16:02:50 11.04.2015
+Server started..
+20:28:17 14.04.2015
+Server started..
+19:43:22 16.04.2015
+Server started..
+06:44:29 18.04.2015
+Server started..
+21:03:53 19.04.2015
+Error selecting: Error: ER_NO_SUCH_TABLE: Table 'm1150_piwko.places1' doesn't exist
+21:05:33 19.04.2015
+Error selecting: Error: ER_BAD_FIELD_ERROR: Unknown column '1places' in 'where clause'
+21:07:33 19.04.2015
+Error selecting: Error: ER_BAD_FIELD_ERROR: Unknown column '1places' in 'where clause'
+21:07:37 19.04.2015
+Error selecting: Error: ER_BAD_FIELD_ERROR: Unknown column '1places' in 'where clause'
+21:50:10 19.04.2015
+Error selecting: Error: ER_NO_SUCH_TABLE: Table 'm1150_piwko.placesqwdq' doesn't exist
+10:04:29 25.05.2015
+Server started..
+01:48:40 26.05.2015
+Server started..
+01:30:55 28.05.2015
+Error selecting: Error: ER_BAD_FIELD_ERROR: Unknown column 'eventsCount' in 'field list'
+01:32:17 28.05.2015
+Error selecting: Error: ER_BAD_FIELD_ERROR: Unknown column 'eventsCount' in 'field list'
+01:32:18 28.05.2015
+Error selecting: Error: ER_BAD_FIELD_ERROR: Unknown column 'eventsCount' in 'field list'
+19:58:19 28.05.2015
+Error selecting: Error: ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+19:58:24 28.05.2015
+Error selecting: Error: ER_BAD_FIELD_ERROR: Unknown column 'eventid' in 'where clause'
+19:58:46 28.05.2015
+Error selecting: Error: ER_BAD_FIELD_ERROR: Unknown column 'eventid' in 'where clause'
+19:58:52 28.05.2015
+Error selecting: Error: ER_BAD_FIELD_ERROR: Unknown column 'id' in 'where clause'
+09:05:40 29.05.2015
+Error selecting: Error: ER_NO_SUCH_TABLE: Table 'm1150_piwko.places_opening_hours' doesn't exist
+09:06:37 29.05.2015
+Error selecting: Error: ER_NO_SUCH_TABLE: Table 'm1150_piwko.places_opening_hours' doesn't exist
+09:33:17 29.05.2015
+Server started..
+09:44:20 29.05.2015
+Server started..
+13:36:30 04.06.2015
+Server started..
+14:33:38 04.06.2015
+Server started..
+14:33:41 04.06.2015
+Error selecting: Error: ER_BAD_FIELD_ERROR: Unknown column 'id_place' in 'where clause'
+14:34:13 04.06.2015
+Server started..
+14:42:08 04.06.2015
+Server started..
+14:52:38 04.06.2015
+Server started..
+14:53:25 04.06.2015
+Server started..
+14:53:28 04.06.2015
+Error selecting: Error: ER_BAD_FIELD_ERROR: Unknown column 'p.id' in 'field list'
+14:54:41 04.06.2015
+Server started..
+14:55:11 04.06.2015
+Server started..
+14:58:34 04.06.2015
+Server started..
+15:38:50 04.06.2015
+Error selecting: Error: ER_BAD_FIELD_ERROR: Unknown column 'idPlaces' in 'where clause'
+15:42:30 04.06.2015
+Server started..
+16:06:17 04.06.2015
+Server started..
+16:07:52 04.06.2015
+Server started..
+16:11:50 04.06.2015
+Server started..
+16:16:52 04.06.2015
+Server started..
+10:43:03 05.06.2015
+Server started..
+10:43:44 05.06.2015
+CONNECTION error: Error: Handshake inactivity timeout
+10:44:15 05.06.2015
+Server started..
+10:44:21 05.06.2015
+CONNECTION error: Error: ER_ACCESS_DENIED_ERROR: Access denied for user 'm1150_piwko'@'156.17.37.135' (using password: YES)
+10:44:24 05.06.2015
+CONNECTION error: Error: ER_ACCESS_DENIED_ERROR: Access denied for user 'm1150_piwko'@'156.17.37.135' (using password: YES)
+10:46:07 05.06.2015
+CONNECTION error: Error: ER_ACCESS_DENIED_ERROR: Access denied for user 'm1150_piwko'@'156.17.37.135' (using password: YES)
+12:36:51 05.06.2015
+Server started..
+12:53:57 05.06.2015
+Server started..
+12:54:29 05.06.2015
+Server started..
+12:55:26 05.06.2015
+Server started..
+12:55:29 05.06.2015
+Server started..

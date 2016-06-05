@@ -1,0 +1,56 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="com.guide.guide.RadarFragment">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <!--<fragment-->
+            <!--android:id="@+id/map"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--tools:layout="@layout/abc_list_menu_item_icon"-->
+            <!--android:name="com.google.android.gms.maps.SupportMapFragment"/>-->
+
+
+        <!--<com.google.android.gms.maps.MapView-->
+            <!--xmlns:android="http://schemas.android.com/apk/res/android"-->
+            <!--android:id="@+id/mapView"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent" />-->
+
+        <!--<include layout="@layout/base_activity" />-->
+
+        <!--<LinearLayout-->
+            <!--android:orientation="horizontal"-->
+            <!--android:layout_width="fill_parent"-->
+            <!--android:layout_height="60dp"-->
+            <!--android:gravity="center_vertical|right"-->
+            <!--android:layout_marginLeft="10dp"-->
+            <!--android:layout_marginRight="10dp"-->
+            <!--android:id="@+id/topMenuEvents"-->
+            <!--android:visibility="invisible">-->
+
+            <!--<ImageButton-->
+                <!--android:layout_width="40dp"-->
+                <!--android:layout_height="40dp"-->
+                <!--android:id="@+id/listButton"-->
+                <!--android:background="@android:color/transparent"-->
+                <!--android:src="@mipmap/list"-->
+                <!--android:scaleType="fitXY" />-->
+
+            <!--<ImageButton-->
+                <!--android:layout_width="40dp"-->
+                <!--android:layout_height="40dp"-->
+                <!--android:id="@+id/filterButton"-->
+                <!--android:src="@mipmap/filter"-->
+                <!--android:background="@android:color/transparent"-->
+                <!--android:scaleType="fitXY" />-->
+
+        <!--</LinearLayout>-->
+
+    </RelativeLayout>
+
+</FrameLayout>

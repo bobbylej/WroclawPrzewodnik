@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tajemnice Dolnego Śląska</string>
+    <string name="title_activity_route">Route</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_radar">Radar</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="title_activity_events_filter">EventsFilterActivity</string>
+    <string name="title_activity_tabbed">TabbedActivity</string>
+
+    <!-- Tytuły aktywności Polski -->
+    <string name="title_fragment_events_pl">Wydarzenia</string>
+    <string name="title_fragment_route_details_pl">Szczegóły</string>
+    <string name="title_fragment_route_list_pl">Lista tras</string>
+    <string name="title_fragment_radar_pl">W pobliżu</string>
+    <string name="title_fragment_route_pl">Trasy</string>
+    <string name="title_fragment_search_pl">Szukaj</string>
+    <string name="title_fragment_filter_pl">Filtry</string>
+    <string name="title_fragment_details_place_pl">Miejsce</string>
+
+    <!-- Tytuły aktywności English -->
+    <string name="title_fragment_events_en">Events</string>
+    <string name="title_fragment_radar_en">Radar</string>
+    <string name="title_fragment_route_en">Routes</string>
+    <string name="title_fragment_search_en">Search</string>
+    <string name="title_fragment_filter_en">Filter</string>
+    <string name="title_fragment_details_place_en">Place</string>
+
+    <!-- SharedPreferences variables -->
+    <string name="main_store">settings</string>
+    <string name="curr_option">currOption</string>
+    <string name="in_main_fragment">inMainFragment</string>
+    <string name="events_radius">eventsRadius</string>
+    <string name="radar_radius">radarRadius</string>
+    <string name="place_id_detail">placeIdDetail</string>
+    <string name="types">types</string>
+    <string name="prev_fragment">previousFragment</string>
+
+</resources>

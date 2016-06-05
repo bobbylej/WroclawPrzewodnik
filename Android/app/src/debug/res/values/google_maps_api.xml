@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=93:3A:E3:B8:D0:C1:4A:FF:14:8A:61:A4:78:50:3A:0C:ED:B1:AA:B5%3Bcom.guide.guide
+
+    You can also add your credentials to an existing key, using this line:
+    93:3A:E3:B8:D0:C1:4A:FF:14:8A:61:A4:78:50:3A:0C:ED:B1:AA:B5;com.guide.guide
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <!--<string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDBEckVrSy0jryA4IuYQA__j_TgKVqBMCM</string>-->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBedFVvgwLSI_szcp3ZHdqUrsaT6SA87xc</string>
+    <string name="google_maps_key_instructions">
+        <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=CB:30:37:20:82:06:1F:A1:65:29:00:27:5A:EE:8E:F4:8A:38:44:E3%3Bcom.guide.guide
+
+    You can also add your credentials to an existing key, using this line:
+    CB:30:37:20:82:06:1F:A1:65:29:00:27:5A:EE:8E:F4:8A:38:44:E3;com.guide.guide
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+        -->
+    </string>
+
+</resources>
